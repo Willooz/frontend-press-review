@@ -1,9 +1,8 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: '14 Feb 2023 🌹'
 pubDate: 2023-02-14
 ---
-
-# 14 Feb 2023 🌹
 
 ## Frameworks 
 * [Netlify aquires Gatsby](https://www.netlify.com/press/netlify-acquires-gatsby-inc-to-accelerate-adoption-of-composable-web-architectures)

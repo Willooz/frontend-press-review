@@ -1,9 +1,8 @@
 ---
+layout: ../../layouts/PostLayout.astro
 title: '31 Jan 2023 🎊'
 pubDate: 2023-01-31
 ---
-
-# 31 Jan 2023 🎊
 
 ## Frameworks
 * [Astro 2.0](https://astro.build/blog/astro-2) out with [Content Collection API](https://astro.build/blog/introducing-content-collections)
