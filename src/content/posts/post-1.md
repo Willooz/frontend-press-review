@@ -1,7 +1,7 @@
 ---
-layout: ../../layouts/PostLayout.astro
 title: '31 Jan 2023 🎊'
 pubDate: 2023-01-31
+tags: ['react', 'javascript']
 ---
 
 ## Frameworks
