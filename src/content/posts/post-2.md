@@ -11,7 +11,7 @@ tags: ['react']
 ## React
 * [React recursively re-renders child components, but there is a nuance](https://alexsidorenko.com/blog/react-render-children-prop) by Alex Sidorenko 
 * [Custom React Hooks and When to Use Them](https://thoughtbot.com/blog/custom-react-hooks) by Stephen Hanson 
-* [Using Svelte Inside A React App; It's Easy!](https://www.youtube.com/watch?v=FrusJNycQvk) by Jack Herrington 
+* 📹 [Using Svelte Inside A React App; It's Easy!](https://www.youtube.com/watch?v=FrusJNycQvk) by Jack Herrington 
 
 ## Javascript
 * [TypeScript Utility Types You Need To Know](https://www.builder.io/blog/utility-types) by Steve Sewell 
