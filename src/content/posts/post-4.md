@@ -1,7 +1,7 @@
 ---
 title: '14 March 2023 🤓'
 pubDate: 2023-03-14
-tags: ['react', 'javascript']
+tags: ['React', 'Angular', 'Javascript', 'CSS']
 ---
 
 ## Frameworks

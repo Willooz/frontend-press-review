@@ -1,7 +1,7 @@
 ---
 title: '23 May 2023 🕊️'
 pubDate: 2023-05-23
-tags: ['react', 'javascript']
+tags: ['React', 'Astro', 'Javascript']
 ---
 
 ## Frameworks

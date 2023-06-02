@@ -1,7 +1,7 @@
 ---
 title: '14 Feb 2023 🌹'
 pubDate: 2023-02-14
-tags: ['react']
+tags: ['React', 'Vue', 'Svelte', 'Javascript', 'Typescript', 'WebAssembly']
 ---
 
 ## Frameworks 

@@ -1,7 +1,7 @@
 ---
 title: '28 March 2023 🎉'
 pubDate: 2023-03-28
-tags: ['react', 'javascript']
+tags: ['React', 'Electron', 'Javascript']
 ---
 
 ## Frameworks

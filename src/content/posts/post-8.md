@@ -1,7 +1,7 @@
 ---
 title: '10 May 2023 ✌️'
 pubDate: 2023-05-10
-tags: ['react', 'javascript']
+tags: ['React', 'Qwik', 'Javascript']
 ---
 
 ## Frameworks

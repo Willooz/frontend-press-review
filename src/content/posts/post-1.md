@@ -1,7 +1,7 @@
 ---
 title: '31 Jan 2023 🎊'
 pubDate: 2023-01-31
-tags: ['react', 'javascript']
+tags: ['React', 'Astro', 'Javascript', 'Typescript']
 ---
 
 ## Frameworks

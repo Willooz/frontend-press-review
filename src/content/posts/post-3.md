@@ -1,7 +1,7 @@
 ---
 title: '28 Feb 2023 📚'
 pubDate: 2023-02-28
-tags: ['react', 'javascript']
+tags: ['React', 'Redux', 'Javascript', 'Course']
 ---
 
 ## Frameworks
@@ -19,4 +19,4 @@ tags: ['react', 'javascript']
 * [Simple, Modern JavaScript](https://vue-mjs.web-templates.io/blog/javascript) by Brandon Foley
 
 ## Computer Science
-* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) by MIT
+* 🎓 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) by MIT

@@ -1,7 +1,7 @@
 ---
 title: '25 April 2023 🍪'
 pubDate: 2023-04-25
-tags: ['react', 'javascript']
+tags: ['React', 'Javascript', 'Typescript']
 ---
 
 ## Frameworks

@@ -1,7 +1,7 @@
 ---
 title: '11 April 2023 🐣'
 pubDate: 2023-04-11
-tags: ['react', 'javascript']
+tags: ['React', 'Tailwind', 'Javascript', 'Typescript', 'Course']
 ---
 
 ## Frameworks
@@ -15,7 +15,7 @@ tags: ['react', 'javascript']
 * 📹 [Smarter and Simpler React State](https://www.youtube.com/watch?v=cp64ybybnda) by Jack Herrington
 * [React Labs: What We've Been Working On – March 2023](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023) by React team
 * [Simple RSC](https://github.com/bholmesdev/simple-rsc) by Ben Holmes
-* [React.gg](https://react.gg/) course by ui.dev
+* 🎓 [React.gg](https://react.gg/) course by ui.dev
 
 
 ## Javascript
