@@ -10,6 +10,14 @@ const { pageTitle = "Frontend Press Review" } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <slot />
+    <div class="bg-slate-100 min-h-screen">
+    <header class="max-w-3xl mx-auto border-b border-slate-200 py-6">
+      <h1 class="text-slate-800 text-3xl font-black">Frontend Press Review</h1>
+      <p class="text-slate-600 text-lg font-light">News about React, Javascript and web development</p>
+    </header>
+    <main class="max-w-3xl mx-auto py-6">
+      <slot />
+    </main>
+    </div>
   </body>
 </html>
